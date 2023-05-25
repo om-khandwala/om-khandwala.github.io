@@ -22,7 +22,7 @@ fetch('https://www.coursehubiitg.in/api/codingweek/contributions')
                     </svg>
                     <img src="${sorted[i].avatar}" alt="abc" class="a limg" width="71.3">
                     <p class="lname">${sorted[i].name}</p>
-                    <p class="lscore">${sorted[i].points}</p>
+                    <p class="a lscore">${sorted[i].points}</p>
                 </div></li>`;
                 }
             }

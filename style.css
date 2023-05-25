@@ -108,14 +108,14 @@
 
 .photoframe_2{
     top: 190px;
-    left:338px;
+    left:17%;
     width: 172px;
     align-content:center;
 }
 
 .photoframe_3{
     top:190px;
-    right: 350px;
+    right: 17%;
     width:172px;
     align-content: center;
 }
@@ -218,9 +218,9 @@
     font-weight: 400;
     font-size: 32px;
     line-height: 39px;
-    margin-left: 267px;
+    right: 7%;
     margin-top: 34px;
-    width: 227px;
+    width: 40px;
     color: #000000;
 }
 
