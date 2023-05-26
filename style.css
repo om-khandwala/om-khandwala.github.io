@@ -66,10 +66,11 @@
     top:40px;
     width: 230.97px;
     height: 230.97px;
+    left: 5%;
 }
 .img1{
     top:51.5px;
-    left:12px;
+    left:10%;
     border-radius: 50%;
 }
 .letter{
@@ -90,8 +91,8 @@
     background-color: #BABEFF;
     height: 32px;
     padding-top: 5px;
-    padding-left: 10px;
-    width: 156px;
+    padding-left: 15px;
+    width: 172px;
 }
 
 .bo1{
@@ -102,7 +103,7 @@
     height: 42.97px;
     padding-top: 5px;
     padding-left: 10px;
-    width: 228.29px;
+    width: 250px;
 }
 
 
@@ -121,7 +122,7 @@
 }
 .photoframe_1{
     
-    width: 230.97px;
+    width: 250px;
     height: 230.97px;
     left: 42%;
     top: 127px;
@@ -129,7 +130,7 @@
 }
 
 .text1{
-    max-width: 300px;
+    max-width: 330px;
     line-height: 29px;
     font-family: 'Inter';
     font-style: normal;
@@ -187,10 +188,11 @@
     font-weight: 400;
     font-size: 32px;
     line-height: 39px;
-    padding-left: 44px;
+    padding-left: 34px;
     padding-right: 62px;
     color: #1E1E1E;
     margin-top: 34px;
+    width: 30px;
 }
 .lframe{
     margin-top:10px;
